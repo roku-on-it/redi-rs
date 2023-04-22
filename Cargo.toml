@@ -3,6 +3,8 @@ name = "redi-rs"
 # Initial Alpha version
 version = "0.1.0-alpha.0"
 edition = "2021"
+authors = ["Oguz Turkay <tyserract@gmail.com>"]
+description = "Lightweight async Redis client with connection pooling written in pure Rust and 100% memory safe"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
