@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/631286266/b5b56df7-cd2f-40f6-bf8b-dd95dbf197a2" width="400" alt="redirs Logo"/>
+<img src="https://repository-images.githubusercontent.com/631322166/500b55b1-f091-4be7-86db-2e7cc679a5eb" width="400" alt="redirs Logo"/>
 
 # redi-rs (or redirs)
 
