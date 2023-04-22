@@ -12,6 +12,8 @@ You can use it in your Rust project to connect to Redis and perform operations.
 - [x] Connection pooling
 
 # To Do
+
+- [ ] Typed commands (`pool.setex("foo", 10, "bar")`, `pool.get("foo") or pool.hset("foo", "bar", "baz")`
 - [ ] TLS support
 - [ ] Redis Cluster support
 - [ ] Redis Streams support
